@@ -17,7 +17,7 @@ public class VentasInventario extends javax.swing.JFrame {
     String username = "root";
     String password = "12345"; 
     
-  
+  //Prueba del commit
     
     public VentasInventario() {
         initComponents();
